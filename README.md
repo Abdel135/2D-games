@@ -1,2 +1,2 @@
 # A functioning copy of FlappyBird
-This game was created using the python 'pygame' module
+This game was created using the 'pygame' module
